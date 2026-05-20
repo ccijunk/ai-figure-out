@@ -37,7 +37,7 @@ Conversational, less role-prescribed. Uses GroupChat with a speaker selector. No
 ### Traditional SDLC roles
 
 Mainstream SDLC literature locates:
-- **Business Analyst** → produces BRD (Business Requirements Document) and Functional Specification. Bridges stakeholder language to technical spec. ([BA in SDLC](https://www.h2kinfosys.com/blog/business-analysts-role-in-software-development-life-cycle-sdlc/))
+- **Business Analyst** → produces BRD (Business Requirements Document) and Functional Specification. Bridges stakeholder language to technical spec. ([BA in SDLC](https://www.h2kinfosys.com/blog/business-analysts-role-,in-software-development-life-cycle-sdlc/))
 - **Technical Architect** → screen layout, business rules, database layout, architectural plan to physical level. ([Design phase in SDLC](https://www.openxcell.com/blog/design-phase-in-sdlc/))
 
 Your `ba → clarify.md` and `architect → design.md` map cleanly onto these. The naming is lighter but the contracts overlap.
